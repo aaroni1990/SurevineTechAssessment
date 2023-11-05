@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Wordpress</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>URL to access CMS</description>
+      <initValue>'http://localhost:8082/wp-admin/edit.php'</initValue>
+      <name>linkWP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Username to log into wp</description>
+      <initValue>'aaron'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Password to log into wp</description>
+      <initValue>'wordpress'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://localhost:8082/'</initValue>
+      <name>linkUI</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
