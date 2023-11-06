@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Editor</name>
+   <tag></tag>
+   <elementGuidId>5144d2a5-5b80-4d4a-b2ed-d1c653848fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='aaroni1990.ai@gmail.com'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#user-2 > td.role.column-role</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>a67874fe-bca3-4540-bf72-3731b9dd4e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>role column-role</value>
+      <webElementGuid>db964393-260f-46e9-b574-3c845b594657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-colname</name>
+      <type>Main</type>
+      <value>Role</value>
+      <webElementGuid>15fbab69-e594-4a12-9f61-d8b346fdac43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Editor</value>
+      <webElementGuid>e554f2cf-86a6-4958-87d8-1ef812b84165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-2&quot;)/td[@class=&quot;role column-role&quot;]</value>
+      <webElementGuid>f59aba14-6175-43d2-a931-dd1fcf862150</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='user-2']/td[4]</value>
+      <webElementGuid>85765cab-4c36-40e4-ac2f-e026d3ec349c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aaroni1990.ai@gmail.com'])[1]/following::td[1]</value>
+      <webElementGuid>5dd2a447-4906-4385-b172-71a0f6f618ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test User'])[1]/following::td[2]</value>
+      <webElementGuid>144dd285-b796-448d-9285-62bf4d0fea86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all'])[2]/preceding::td[2]</value>
+      <webElementGuid>d6dc42e7-541d-4bd5-9542-282398538709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[2]/preceding::td[3]</value>
+      <webElementGuid>54758bc5-f5a4-4b16-8e52-cfb5dfb3924e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]</value>
+      <webElementGuid>6bc26b1a-78bd-4fd8-bc23-eb99c4f0f513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Editor' or . = 'Editor')]</value>
+      <webElementGuid>478abe42-f1a3-47e1-9b71-b66e5f40cf0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

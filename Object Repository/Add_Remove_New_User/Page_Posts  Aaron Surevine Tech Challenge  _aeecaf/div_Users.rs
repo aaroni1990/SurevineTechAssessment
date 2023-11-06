@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Users</name>
+   <tag></tag>
+   <elementGuidId>b150509d-0a13-4ac9-ae18-9285e2003292</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-users']/a/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.wp-has-submenu.wp-not-current-submenu.menu-top.menu-icon-users > div.wp-menu-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa557f51-cd2e-4284-b551-91d7e869d3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-menu-name</value>
+      <webElementGuid>d252b0dd-cca4-488a-9be6-77d0c37c40d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Users</value>
+      <webElementGuid>eb5b4ec5-d013-4e29-b8ff-22f60608f95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-users&quot;)/a[@class=&quot;wp-has-submenu wp-not-current-submenu menu-top menu-icon-users&quot;]/div[@class=&quot;wp-menu-name&quot;]</value>
+      <webElementGuid>f6ab460e-2a3c-4377-92ca-bbaa93572d9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-users']/a/div[3]</value>
+      <webElementGuid>81efb8a7-9e10-417b-b73c-3ea847fee291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[4]/following::div[4]</value>
+      <webElementGuid>71f641ca-68fc-4de3-ab75-29c1d916b2d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installed Plugins'])[1]/following::div[4]</value>
+      <webElementGuid>424103fa-d08f-451d-8f65-06d552962641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Users'])[1]/preceding::div[1]</value>
+      <webElementGuid>1395d4d8-2a4a-40e4-b6a4-36fbb047e262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[5]/preceding::div[1]</value>
+      <webElementGuid>8a4e5a8c-fa61-479e-9a4b-7a49772e81c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Users']/parent::*</value>
+      <webElementGuid>5ac83d32-09cb-4618-afb1-69d86475894f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/div[3]</value>
+      <webElementGuid>a29163ea-f3e9-4fc9-a9a3-7457f3fc0590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Users' or . = 'Users')]</value>
+      <webElementGuid>d34a17ed-e0d5-4f7b-88c0-faa8da8e745a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
